@@ -3,7 +3,9 @@
         "test": "mocha --compilers coffee:coffee-script/register"
     },
     "dependencies": {
-        "coffee-script": ">= 1.8.0"
+        "coffee-script": ">= 1.8.0",
+        "backbone": "1.1.2",
+        "underscore": "1.7.0"
     },
     "devDependencies": {
         "mocha": ">= 2.0.1"
